@@ -60,10 +60,4 @@ None, currently a student.
 - [Task Management System](https://github.com/magnacidium/pyproj/tree/main/t24)
 - [Inventory Management System](https://github.com/magnacidium/pyproj/tree/main/t30)
 
-## Blog Posts/Articles
-
-None
-
----
-
 *Please note that this digital CV is a static web page and does not require installation or interaction. It's designed to provide information about Jameelah M's background and skills.*
